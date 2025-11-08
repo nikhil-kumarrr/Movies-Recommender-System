@@ -29,8 +29,8 @@ that can suggest the most relevant movies based on a user's input.
 
 ## Dataset
 
-Dataset used: **TMDB 5000 Movies Dataset**\
-Available on
+* Dataset used: **TMDB 5000 Movies Dataset**\
+* Available on
 Kaggle : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ------------------------------------------------------------------------
