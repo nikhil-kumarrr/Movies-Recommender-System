@@ -17,7 +17,7 @@ that can suggest the most relevant movies based on a user's input.
 
 ------------------------------------------------------------------------
 
-## Features
+## Features :
 
 -   Clean data preprocessing (genres, cast, crew, keywords)
 -   Tag creation by combining key features
@@ -27,7 +27,7 @@ that can suggest the most relevant movies based on a user's input.
 
 ------------------------------------------------------------------------
 
-## Dataset
+## Dataset :
 
 * Dataset used: **TMDB 5000 Movies Dataset**\
 * Available on
