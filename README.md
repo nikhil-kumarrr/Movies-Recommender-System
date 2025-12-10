@@ -42,3 +42,5 @@ meaningful insights for personalized recommendations.\
 While this is a basic content-based model, it lays a strong foundation
 for building more advanced systems like **hybrid recommenders** that
 combine collaborative filtering and deep learning approaches.
+
+------------------------------------------------------------------------
