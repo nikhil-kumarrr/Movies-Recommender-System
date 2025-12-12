@@ -98,5 +98,5 @@ https://movies-recommendation-bot.streamlit.app/
 
 ## Screenshots
 
-![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-11%20121107.png?raw=true)
-![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-11%20121139.png?raw=true)
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-12%20115959.png?raw=true)
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-12%20120021.png?raw=true)
