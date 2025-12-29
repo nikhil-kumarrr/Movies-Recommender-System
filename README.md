@@ -16,7 +16,7 @@ The system uses:
 1. TMDB 5000 Movies Dataset
 Contains:
 * Title
-* Genres
+* Genres 
 *Overview
 * Keywords
 * Cast & Crew
