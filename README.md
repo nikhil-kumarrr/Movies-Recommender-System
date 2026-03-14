@@ -3,7 +3,7 @@
 A ML-powered movie recommender app built using cosine similarity + TMDB API + Streamlit.
 Select a movie and get the top 5 similar recommendations with posters.
 
-## 🚀 Features
+##  Features
 * 🎯 ML-based similarity recommendations 
 * 🖼 Fetch posters using TMDB API
 * ⚫ Sleek Dark UI (custom CSS)
