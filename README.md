@@ -7,7 +7,7 @@ Select a movie and get the top 5 similar recommendations with posters.
 *  ML-based similarity recommendations 
 *  Fetch posters using TMDB API
 *  Sleek Dark UI (custom CSS)
-* ⚡ Instant 5-movie recommendations
+*  Instant 5-movie recommendations
 * 📁 Uses TMDB 5000 movie dataset
 * 🔥 Hover animations + stylish movie cards
  
