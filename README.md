@@ -96,6 +96,6 @@ Kaggle : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 ##  Live Demo
 https://movies-recommendation-bot.streamlit.app/
 
-## 📸 Screenshots
+##  Screenshots
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-12%20115959.png?raw=true)
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-12%20120021.png?raw=true)
