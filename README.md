@@ -93,7 +93,7 @@ streamlit run app.py
 * Available on
 Kaggle : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-## 🌐 Live Demo
+##  Live Demo
 https://movies-recommendation-bot.streamlit.app/
 
 ## 📸 Screenshots
