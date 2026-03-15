@@ -76,7 +76,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 ```bash
 │── app.py
 │── movie_list.pkl
